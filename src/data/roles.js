@@ -66,7 +66,7 @@ export const ROLES = {
     stats: [
       { v: "20+", l: "Sites Shipped" },
       { v: "50%", l: "Team Efficiency ↑" },
-      { v: "3+",  l: "Years Experience" },
+      { v: "1+",  l: "Years Experience" },
     ],
     skills: [
       { cat: "Design & Prototyping", items: ["Figma","Figma Make","Figma AI","Auto Layout","Wireframing","UI/UX Flows","Design Systems","Material Design","Ant Design"] },
