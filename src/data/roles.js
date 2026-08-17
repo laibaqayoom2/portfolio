@@ -75,11 +75,11 @@ export const ROLES = {
     ],
     defaultProjects: [
       {
-        n: "Noxora — AI SaaS Landing Page",
+        n: "Nexora — AI SaaS Landing Page",
         d: "Dark-themed SaaS landing page for an AI-native workflow platform. Full design in Figma — hero, features, pricing tiers, and testimonials section.",
         t: ["Figma","SaaS Design","Dark UI"],
-        e: "🖤", link: "https://www.figma.com/design/6uZQwjkaJ6J3hIexDnlUXS/", thumbnail: "/images/noxora.png",
-        type: "Figma Design",
+        e: "🖤", link: "https://nexora-automations.webflow.io/", thumbnail: "/images/noxora.png",
+        type: "Webflow Build",
       },
       {
         n: "GXA — SaaS Landing Pages",
