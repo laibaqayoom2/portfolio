@@ -18,9 +18,9 @@ export default function Testimonials() {
         <div className={s.empty}>
           <span className={s.emptyIcon}>💬</span>
           <p>Client testimonials coming soon.</p>
-          <p className={s.emptyHint}>
+          {/* <p className={s.emptyHint}>
             Edit <code>src/data/roles.js</code> → <code>TESTIMONIALS</code> to add real quotes.
-          </p>
+          </p> */}
         </div>
       </section>
     );
